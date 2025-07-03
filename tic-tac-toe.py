@@ -108,5 +108,4 @@ def print_board(state):
     print(f"{state[6]} | {state[7]} | {state[8]}")
     print()
 
-
 play_game()
